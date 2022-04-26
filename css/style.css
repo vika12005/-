@@ -38,9 +38,11 @@
 .social{
     float:right;
 }
-.proposition h1{}
+.proposition {
+    background: url(../img2/Rectangle\ 9.jpg) ;
+}
 .logo{
-    float:left
+    
 }
 .logo p{
     width: 677px;
@@ -62,4 +64,4 @@
     padding: 10px 20px;
     transition: all 0.45s ease;
 }
-}
+
