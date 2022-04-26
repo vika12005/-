@@ -12,7 +12,7 @@
  }
  .header {
     background-color: #1f1f56;
-    padding: 15.5px 0 ;
+    padding: 16px 0 ;
  }
  .header ul{
     margin: 0 -14px;
@@ -52,4 +52,14 @@
 }
 .grupp{
     float:right;
+}
+.grupp a{
+    display: block;
+    font-size: 14px;
+    line-height: 14px;
+    color: #39930d;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    transition: all 0.45s ease;
+}
 }
