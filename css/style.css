@@ -39,10 +39,30 @@
     float:right;
 }
 .proposition {
-    background: url(../img2/Rectangle\ 9.jpg) ;
+    text-align: center;
+    background: url(../img/Rectangle\ 9.jpg) ;
 }
-.logo{
-    
+.wrapper h1{
+    font-size: 30px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+}
+.title{
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    font-family: "Arial";
+    text-align: center;
+}
+.price{
+    font-size: 40px;
+    line-height: 24px;
+    color: #fd8300;
+    font-weight: bold;
+    font-family: "Arial";  
 }
 .logo p{
     width: 677px;
